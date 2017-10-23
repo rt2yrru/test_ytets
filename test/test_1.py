@@ -62,10 +62,7 @@ ydl_opts ={
     'progress_hooks': [my_hook],
 }
 _url_=[]
-_url_.append('https://spankbang.com/1l8mp/video/mom+is+jealous+about+her+son+s+gf')
-_url_.append('https://spankbang.com/1fti5/video/mom+and+son+pregnant')
-_url_.append('https://spankbang.com/1g83q/video/mom+fucks+son+to+get+revenge+on+husband')
-_url_.append('https://spankbang.com/1esrp/video/mother+in+crisis')
+
 _i=len(_url_)
 
 with youtube_dl.YoutubeDL(ydl_opts) as ydl:
